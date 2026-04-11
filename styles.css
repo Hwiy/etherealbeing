@@ -1,3 +1,16 @@
 body { 
-  background-color: #cccccc;
+  background-color: #ba5050;
+}
+
+h1{
+  margin: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

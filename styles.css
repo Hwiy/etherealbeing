@@ -1,16 +1,13 @@
-body { 
-  background-color: #ba5050;
+body {
+  background-image: url('installation.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-h1{
+h1 {
   margin: 40px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-h2{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  text-align: center;
+  color: #e03c65;
+  font-family: Georgia, serif;
 }

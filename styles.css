@@ -34,4 +34,5 @@ h1 {
   font-family: Arial, sans-serif;
   font-weight: bold;
   -webkit-text-stroke: 1px black;
+  font-size: clamp(32px, 6vw, 72px);
 }

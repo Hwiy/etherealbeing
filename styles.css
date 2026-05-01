@@ -34,6 +34,6 @@ h1 {
   color: white;
   font-family: Arial, sans-serif;
   font-weight: bold;
-  -webkit-text-stroke: 1px black;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
   font-size: clamp(32px, 6vw, 72px);
 }
